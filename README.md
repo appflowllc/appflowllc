@@ -1,4 +1,4 @@
-# AppFlow LLC
+# AppFlow
 
 **C# · .NET · .NET MAUI — with a focus on Xamarin.Forms → MAUI migration.**
 
